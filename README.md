@@ -1,4 +1,6 @@
-# SmallPartsCountingMachine
+# SmallPartsCountingMachine (V2)
+https://youtu.be/r7ZmXTTQmEo
+
 [Round] parts counting machine using inductive proximity sensor. Design is derrived from Rx pill counters. 
 
 ![Animated GIF-source](https://github.com/user-attachments/assets/674dc37f-2b62-4504-a84d-0e56e56035aa)
